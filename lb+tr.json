@@ -59,8 +59,8 @@
       }
     },
     "topBar": {
-      "tray": "Tepsi",
-      "recents": "Son",
+      "tray": "Arşiv",
+      "recents": "En son görüntülenenler",
       "cloudStatus": "Bulut",
       "path": "Yol",
       "share": "Paylaş",
