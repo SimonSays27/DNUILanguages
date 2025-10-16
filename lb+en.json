@@ -1,0 +1,114 @@
+{
+    "settings": {
+        "useApplePencilExplanation": "Turn off to use finger drawing",
+        "drawingInputType": "Handwriting input",
+        "trash": "Trash",
+        "pencil": "Pencil",
+        "sync": "Sync",
+        "settings": "Settings",
+        "syncToiCloud": "Sync to iCloud",
+        "backupImport": "Import",
+        "gesturesAndPencil": "Gestures & Pencil",
+        "iCloudAndSync": "iCloud & Sync",
+        "listView": "List View",
+        "backupExport": "Export",
+        "backup": "Backup",
+        "maintenance": "Maintenance",
+        "general": {
+            "workspaceColor": "Workspace Color",
+            "systemPreference": "System Preference",
+            "light": "Light",
+            "dark": "Dark",
+            "left": "Left",
+            "menuPosition": "Menu Position",
+            "general": "General",
+            "right": "Right",
+            "interface": "Interface"
+        },
+        "language": "Language",
+        "useApplePencil": "Use Apple Pencil"
+    },
+    "export": {
+        "share": "Share",
+        "singlePage": "Single Page",
+        "multiPage": "Multipage"
+    },
+    "ui": {
+        "attach": {
+            "clipboardPaste": "Paste",
+            "img": "Image",
+            "url": "URL",
+            "cancel": "Cancel",
+            "file": "File",
+            "camera": "Camera"
+        },
+        "general": {
+            "close": "Close",
+            "sendToTray": "Send to Tray",
+            "deleteAll": "Delete All",
+            "deleteSelection": "Delete Selection"
+        },
+        "sideBar": {
+            "itemCreation": {
+                "space": "Space",
+                "file": "File",
+                "stack": "Stack",
+                "settings": "Settings",
+                "page": "Page",
+                "attachment": "Attachment",
+                "sticky": "Sticky Note",
+                "wormhole": "Wormhole",
+                "image": "Image",
+                "textbox": "Text-box"
+            },
+            "editMenu": {
+                "tFit": "Fit",
+                "rotateCW": "Rotate",
+                "tRight": "Right",
+                "font": "Font",
+                "tBottom": "Bottom",
+                "pageTemplate": "Page Template",
+                "tTop": "Top",
+                "applyToAllStack": "Apply to all Stack",
+                "stackEm": "Stack 'em",
+                "textAlignment": "Alignment",
+                "tLeft": "Left",
+                "paperSize": "Paper Size",
+                "duplicate": "Duplicate",
+                "color": "Color",
+                "grid": "Grid",
+                "portrait": "Portrait",
+                "saveCurrentFrameForWormhole": "Save current frame for Wormhole",
+                "tJustify": "Justify",
+                "tCenter": "Center",
+                "tFree": "Free",
+                "done": "Done",
+                "full": "Full",
+                "pattern": "Pattern",
+                "share": "Share",
+                "selectSize": "Select Size",
+                "crop": "Crop",
+                "landscape": "Landscape",
+                "icon": "Icon",
+                "size": "Size",
+                "selectFont": "Select Font",
+                "inset": "Inset"
+            }
+        },
+        "elements": {
+            "searchAWormholeToConnect": "Search a wormhole to connect",
+            "tapToName": "Tap to name"
+        },
+        "topBar": {
+            "searchResult": "Search Result",
+            "tray": "Tray",
+            "map": "Map",
+            "share": "Share",
+            "spaceDetail": "Space Detail",
+            "search": "Search",
+            "recents": "Recents",
+            "cloudStatus": "Cloud Status",
+            "path": "Path"
+        }
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "settings": {
+        "useApplePencilExplanation": "Deaktivieren, um mit dem Finger zu zeichnen",
+        "drawingInputType": "Zeicheneingabe",
+        "trash": "Papierkorb",
+        "pencil": "Stift",
+        "sync": "Synchronisieren",
+        "settings": "Einstellungen",
+        "syncToiCloud": "Mit iCloud synchronisieren",
+        "backupImport": "Importieren",
+        "gesturesAndPencil": "Gesten & Stift",
+        "iCloudAndSync": "iCloud & Synchronisation",
+        "listView": "Listenansicht",
+        "backupExport": "Exportieren",
+        "backup": "Sicherung",
+        "maintenance": "Wartung",
+        "general": {
+            "workspaceColor": "Arbeitsbereichfarbe",
+            "systemPreference": "Systemeinstellung",
+            "light": "Hell",
+            "dark": "Dunkel",
+            "left": "Links",
+            "menuPosition": "Menüposition",
+            "general": "Allgemein",
+            "right": "Rechts",
+            "interface": "Oberfläche"
+        },
+        "language": "Sprache",
+        "useApplePencil": "Apple Pencil verwenden"
+    },
+    "export": {
+        "share": "Teilen",
+        "singlePage": "Einzelseite",
+        "multiPage": "Mehrseitig"
+    },
+    "ui": {
+        "attach": {
+            "clipboardPaste": "Einfügen",
+            "img": "Bild",
+            "url": "URL",
+            "cancel": "Abbrechen",
+            "file": "Datei",
+            "camera": "Kamera"
+        },
+        "general": {
+            "close": "Schließen",
+            "sendToTray": "In Ablage senden",
+            "deleteAll": "Alles löschen",
+            "deleteSelection": "Auswahl löschen"
+        },
+        "sideBar": {
+            "itemCreation": {
+                "space": "Bereich",
+                "file": "Datei",
+                "stack": "Stapel",
+                "settings": "Einstellungen",
+                "page": "Seite",
+                "attachment": "Anhang",
+                "sticky": "Haftnotiz",
+                "wormhole": "Wurmloch",
+                "image": "Bild",
+                "textbox": "Textfeld"
+            },
+            "editMenu": {
+                "tFit": "Anpassen",
+                "rotateCW": "Drehen",
+                "tRight": "Rechts",
+                "font": "Schriftart",
+                "tBottom": "Unten",
+                "pageTemplate": "Seitenvorlage",
+                "tTop": "Oben",
+                "applyToAllStack": "Auf gesamten Stapel anwenden",
+                "stackEm": "Stapeln",
+                "textAlignment": "Ausrichtung",
+                "tLeft": "Links",
+                "paperSize": "Papiergröße",
+                "duplicate": "Duplizieren",
+                "color": "Farbe",
+                "grid": "Raster",
+                "portrait": "Hochformat",
+                "saveCurrentFrameForWormhole": "Aktuellen Rahmen für Wurmloch speichern",
+                "tJustify": "Blocksatz",
+                "tCenter": "Zentrieren",
+                "tFree": "Frei",
+                "done": "Fertig",
+                "full": "Voll",
+                "pattern": "Muster",
+                "share": "Teilen",
+                "selectSize": "Größe auswählen",
+                "crop": "Zuschneiden",
+                "landscape": "Querformat",
+                "icon": "Symbol",
+                "size": "Größe",
+                "selectFont": "Schriftart auswählen",
+                "inset": "Einzug"
+            }
+        },
+        "elements": {
+            "searchAWormholeToConnect": "Nach Wurmloch zum Verbinden suchen",
+            "tapToName": "Zum Benennen tippen"
+        },
+        "topBar": {
+            "searchResult": "Suchergebnis",
+            "tray": "Ablage",
+            "map": "Karte",
+            "share": "Teilen",
+            "spaceDetail": "Bereichsdetails",
+            "search": "Suchen",
+            "recents": "Zuletzt verwendet",
+            "cloudStatus": "Cloud-Status",
+            "path": "Pfad"
+        }
+    }
+}

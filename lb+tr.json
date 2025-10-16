@@ -1,0 +1,114 @@
+{
+  "export": {
+    "multiPage": "Çoklu Sayfa",
+    "singlePage": "Tek Sayfa",
+    "share": "Paylaş"
+  },
+  "ui": {
+    "general": {
+      "close": "Kapat",
+      "deleteAll": "Hepsini Sil",
+      "deleteSelection": "Seçileni Sil",
+      "sendToTray": "Tepsiye Gönder"
+    },
+    "sideBar": {
+      "editMenu": {
+        "color": "Renk",
+        "paperSize": "Kağıt Boyutu",
+        "pattern": "Desen",
+        "pageTemplate": "Şablon",
+        "portrait": "Dikey",
+        "landscape": "Yatay",
+        "grid": "Izgara",
+        "full": "Tam",
+        "inset": "İç",
+        "font": "Yazı Tipi",
+        "selectSize": "Boyut Seç",
+        "selectFont": "Yazı Tipi Seç",
+        "textAlignment": "Hizalama",
+        "tLeft": "Sol",
+        "tRight": "Sağ",
+        "tCenter": "Orta",
+        "tJustify": "Hizala",
+        "tTop": "Üst",
+        "tBottom": "Alt",
+        "tFree": "Serbest",
+        "tFit": "Sığdır",
+        "stackEm": "Yığ",
+        "applyToAllStack": "Hepsine Uygula",
+        "saveCurrentFrameForWormhole": "Kareyi Solucan Deliğine Kaydet",
+        "crop": "Kırp",
+        "icon": "İkon",
+        "rotateCW": "Döndür",
+        "size": "Boyut",
+        "duplicate": "Kopyala",
+        "share": "Paylaş",
+        "done": "Bitti"
+      },
+      "itemCreation": {
+        "stack": "Yığın",
+        "wormhole": "Solucan Deliği",
+        "image": "Görsel",
+        "space": "Alan",
+        "settings": "Ayarlar",
+        "page": "Sayfa",
+        "attachment": "Ek",
+        "sticky": "Not",
+        "textbox": "Metin Kutusu",
+        "file": "Dosya"
+      }
+    },
+    "topBar": {
+      "tray": "Tepsi",
+      "recents": "Son",
+      "cloudStatus": "Bulut",
+      "path": "Yol",
+      "share": "Paylaş",
+      "spaceDetail": "Alan Detayı",
+      "search": "Ara",
+      "searchResult": "Sonuçlar",
+      "map": "Harita"
+    },
+    "elements": {
+      "tapToName": "Adlandır",
+      "searchAWormholeToConnect": "Bağlanacak solucan deliği ara"
+    },
+    "attach": {
+      "img": "Görsel",
+      "cancel": "İptal",
+      "url": "URL",
+      "camera": "Kamera",
+      "clipboardPaste": "Yapıştır",
+      "file": "Dosya"
+    }
+  },
+  "settings": {
+    "useApplePencil": "Apple Pencil Kullan",
+    "general": {
+      "dark": "Koyu",
+      "light": "Açık",
+      "menuPosition": "Menü Konumu",
+      "workspaceColor": "Arka Plan",
+      "general": "Genel",
+      "right": "Sağ",
+      "left": "Sol",
+      "systemPreference": "Sistem",
+      "interface": "Arayüz"
+    },
+    "backupExport": "Dışa Aktar",
+    "language": "Dil",
+    "pencil": "Kalem",
+    "backup": "Yedek",
+    "useApplePencilExplanation": "Parmakla çizmek için kapat",
+    "drawingInputType": "Çizim Girişi",
+    "listView": "Liste",
+    "settings": "Ayarlar",
+    "maintenance": "Bakım",
+    "gesturesAndPencil": "Hareketler & Kalem",
+    "iCloudAndSync": "iCloud Senkron",
+    "backupImport": "İçe Aktar",
+    "syncToiCloud": "iCloud ile Senkron",
+    "trash": "Çöp",
+    "sync": "Senkron"
+  }
+}

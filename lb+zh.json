@@ -1,0 +1,114 @@
+{
+    "settings": {
+        "useApplePencilExplanation": "关闭以使用手指绘图",
+        "drawingInputType": "绘图输入类型",
+        "trash": "回收站",
+        "pencil": "铅笔",
+        "sync": "同步",
+        "settings": "设置",
+        "syncToiCloud": "同步到iCloud",
+        "backupImport": "导入",
+        "gesturesAndPencil": "手势 & 铅笔",
+        "iCloudAndSync": "iCloud & 同步",
+        "listView": "列表视图",
+        "backupExport": "导出",
+        "backup": "备份",
+        "maintenance": "维护",
+        "general": {
+            "workspaceColor": "工作区颜色",
+            "systemPreference": "系统偏好",
+            "light": "明亮",
+            "dark": "暗色",
+            "left": "左",
+            "menuPosition": "菜单位置",
+            "general": "通用",
+            "right": "右",
+            "interface": "界面"
+        },
+        "language": "语言",
+        "useApplePencil": "使用 Apple Pencil"
+    },
+    "export": {
+        "share": "分享",
+        "singlePage": "单页",
+        "multiPage": "多页"
+    },
+    "ui": {
+        "attach": {
+            "clipboardPaste": "粘贴",
+            "img": "图片",
+            "url": "网址",
+            "cancel": "取消",
+            "file": "文件",
+            "camera": "相机"
+        },
+        "general": {
+            "close": "关闭",
+            "sendToTray": "发送到托盘",
+            "deleteAll": "全部删除",
+            "deleteSelection": "删除所选"
+        },
+        "sideBar": {
+            "itemCreation": {
+                "space": "空间",
+                "file": "文件",
+                "stack": "堆叠",
+                "settings": "设置",
+                "page": "页面",
+                "attachment": "附件",
+                "sticky": "便签",
+                "wormhole": "虫洞",
+                "image": "图片",
+                "textbox": "文本框"
+            },
+            "editMenu": {
+                "tFit": "适应",
+                "rotateCW": "旋转",
+                "tRight": "右",
+                "font": "字体",
+                "tBottom": "底部",
+                "pageTemplate": "页面模板",
+                "tTop": "顶部",
+                "applyToAllStack": "应用到所有堆叠",
+                "stackEm": "堆叠",
+                "textAlignment": "对齐",
+                "tLeft": "左",
+                "paperSize": "纸张尺寸",
+                "duplicate": "复制",
+                "color": "颜色",
+                "grid": "网格",
+                "portrait": "竖向",
+                "saveCurrentFrameForWormhole": "保存当前框架用于虫洞",
+                "tJustify": "两端对齐",
+                "tCenter": "居中",
+                "tFree": "自由",
+                "done": "完成",
+                "full": "全屏",
+                "pattern": "图案",
+                "share": "分享",
+                "selectSize": "选择尺寸",
+                "crop": "裁剪",
+                "landscape": "横向",
+                "icon": "图标",
+                "size": "尺寸",
+                "selectFont": "选择字体",
+                "inset": "缩进"
+            }
+        },
+        "elements": {
+            "searchAWormholeToConnect": "搜索要连接的虫洞",
+            "tapToName": "点击命名"
+        },
+        "topBar": {
+            "searchResult": "搜索结果",
+            "tray": "托盘",
+            "map": "地图",
+            "share": "分享",
+            "spaceDetail": "空间详情",
+            "search": "搜索",
+            "recents": "最近使用",
+            "cloudStatus": "云状态",
+            "path": "路径"
+        }
+    }
+}

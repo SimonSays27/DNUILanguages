@@ -1,0 +1,114 @@
+{
+    "settings": {
+        "useApplePencilExplanation": "꺼면 손가락으로 그릴 수 있음",
+        "drawingInputType": "그리기 입력 유형",
+        "trash": "휴지통",
+        "pencil": "연필",
+        "sync": "동기화",
+        "settings": "설정",
+        "syncToiCloud": "iCloud와 동기화",
+        "backupImport": "가져오기",
+        "gesturesAndPencil": "제스처 & 연필",
+        "iCloudAndSync": "iCloud & 동기화",
+        "listView": "목록 보기",
+        "backupExport": "내보내기",
+        "backup": "백업",
+        "maintenance": "유지보수",
+        "general": {
+            "workspaceColor": "작업공간 색상",
+            "systemPreference": "시스템 설정",
+            "light": "밝음",
+            "dark": "어두움",
+            "left": "왼쪽",
+            "menuPosition": "메뉴 위치",
+            "general": "일반",
+            "right": "오른쪽",
+            "interface": "인터페이스"
+        },
+        "language": "언어",
+        "useApplePencil": "Apple Pencil 사용"
+    },
+    "export": {
+        "share": "공유",
+        "singlePage": "단일 페이지",
+        "multiPage": "다중 페이지"
+    },
+    "ui": {
+        "attach": {
+            "clipboardPaste": "붙여넣기",
+            "img": "이미지",
+            "url": "URL",
+            "cancel": "취소",
+            "file": "파일",
+            "camera": "카메라"
+        },
+        "general": {
+            "close": "닫기",
+            "sendToTray": "트레이로 보내기",
+            "deleteAll": "모두 삭제",
+            "deleteSelection": "선택 삭제"
+        },
+        "sideBar": {
+            "itemCreation": {
+                "space": "공간",
+                "file": "파일",
+                "stack": "스택",
+                "settings": "설정",
+                "page": "페이지",
+                "attachment": "첨부",
+                "sticky": "메모",
+                "wormhole": "웜홀",
+                "image": "이미지",
+                "textbox": "텍스트 상자"
+            },
+            "editMenu": {
+                "tFit": "맞춤",
+                "rotateCW": "회전",
+                "tRight": "오른쪽",
+                "font": "글꼴",
+                "tBottom": "아래",
+                "pageTemplate": "페이지 템플릿",
+                "tTop": "위",
+                "applyToAllStack": "모든 스택에 적용",
+                "stackEm": "스택 쌓기",
+                "textAlignment": "정렬",
+                "tLeft": "왼쪽",
+                "paperSize": "용지 크기",
+                "duplicate": "복제",
+                "color": "색상",
+                "grid": "그리드",
+                "portrait": "세로",
+                "saveCurrentFrameForWormhole": "현재 프레임을 웜홀용으로 저장",
+                "tJustify": "양쪽 정렬",
+                "tCenter": "가운데",
+                "tFree": "자유",
+                "done": "완료",
+                "full": "전체",
+                "pattern": "패턴",
+                "share": "공유",
+                "selectSize": "크기 선택",
+                "crop": "자르기",
+                "landscape": "가로",
+                "icon": "아이콘",
+                "size": "크기",
+                "selectFont": "글꼴 선택",
+                "inset": "들여쓰기"
+            }
+        },
+        "elements": {
+            "searchAWormholeToConnect": "연결할 웜홀 검색",
+            "tapToName": "이름을 지정하려면 탭"
+        },
+        "topBar": {
+            "searchResult": "검색 결과",
+            "tray": "트레이",
+            "map": "지도",
+            "share": "공유",
+            "spaceDetail": "공간 상세",
+            "search": "검색",
+            "recents": "최근 사용",
+            "cloudStatus": "클라우드 상태",
+            "path": "경로"
+        }
+    }
+}
