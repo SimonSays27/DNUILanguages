@@ -59,8 +59,8 @@
       }
     },
     "topBar": {
-      "tray": "Tepsi",
-      "recents": "Son",
+      "tray": "Arşiv",
+      "recents": "En son görüntülenenler",
       "cloudStatus": "Bulut",
       "path": "Yol",
       "share": "Paylaş",
@@ -98,7 +98,7 @@
     "backupExport": "Dışa Aktar",
     "language": "Dil",
     "pencil": "Kalem",
-    "backup": "Yedek",
+    "backup": "Yedekleme",
     "useApplePencilExplanation": "Parmakla çizmek için kapat",
     "drawingInputType": "Çizim Girişi",
     "listView": "Liste",
