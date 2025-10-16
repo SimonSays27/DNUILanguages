@@ -85,10 +85,10 @@
   "settings": {
     "useApplePencil": "Apple Pencil Kullan",
     "general": {
-      "dark": "Koyu",
-      "light": "Açık",
+      "dark": "Koyu Renk Modu",
+      "light": "Açık Renk Modu",
       "menuPosition": "Menü Konumu",
-      "workspaceColor": "Arka Plan",
+      "workspaceColor": "Arkaplan Rengi",
       "general": "Genel",
       "right": "Sağ",
       "left": "Sol",
@@ -96,7 +96,7 @@
       "interface": "Arayüz"
     },
     "backupExport": "Dışa Aktar",
-    "language": "Dil",
+    "language": "Dil Seçimi",
     "pencil": "Kalem",
     "backup": "Yedekleme",
     "useApplePencilExplanation": "Parmakla çizmek için kapat",
